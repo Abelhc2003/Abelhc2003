@@ -38,5 +38,5 @@ Ahora mismo busco **prácticas en empresa** donde aprender en un entorno real.
 
 ### `$ ./contacto`
 
-[![Email](https://img.shields.io/badge/Email-161b22?style=flat-square&logo=gmail&logoColor=3fb950)](mailto:ahernandez517@alu.ucam.edu)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-161b22?style=flat-square&logo=linkedin&logoColor=3fb950)](https://www.linkedin.com/in/TU_USUARIO_LINKEDIN)
+[![Email](https://img.shields.io/badge/Email-161b22?style=flat-square&logo=gmail&logoColor=3fb950)](mailto:2003abelhc@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-161b22?style=flat-square&logo=linkedin&logoColor=3fb950)](www.linkedin.com/in/abel-hernandez-carrasco)
